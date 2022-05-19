@@ -1,0 +1,35 @@
+[
+    {
+        "consignee": "张三",
+        "fullAddress": "重庆市南岸区",
+        "id": "1",
+        "isDefault": "0",
+        "phoneNum": "1111111111",
+        "provinceId": 1,
+        "regionId": "1",
+        "userAddress": "南山街道",
+        "userId": "11"
+    },
+    {
+        "consignee": "李四",
+        "fullAddress": "重庆市渝北区",
+        "id": "2",
+        "isDefault": "1",
+        "phoneNum": "222222222",
+        "provinceId": 1,
+        "regionId": "1",
+        "userAddress": "仙桃街道",
+        "userId": "22"
+    },
+    {
+        "consignee": "王五",
+        "fullAddress": "重庆市沙坪坝区",
+        "id": "3",
+        "isDefault": "0",
+        "phoneNum": "3333333333333",
+        "provinceId": 1,
+        "regionId": "1",
+        "userAddress": "大学城街道",
+        "userId": "33"
+    }
+]
