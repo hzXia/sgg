@@ -1,5 +1,7 @@
 # 尚品汇电商平台
 
+[展示](https://test-five-flame-99.vercel.app/#/home)
+
 ## 首页
 
 ![首页](https://github.com/hzXia/sgg/blob/master/img/home1.png)
